@@ -1,0 +1,5 @@
+extra_delay_days,total_return,annualized_return,annualized_volatility,sharpe_ratio,max_drawdown,beats_spy
+0,30.051164,0.17811,0.196403,0.906862,-0.30006,True
+1,27.211053,0.172731,0.19757,0.874275,-0.313992,True
+2,27.819969,0.173926,0.199181,0.873205,-0.332193,True
+5,22.912593,0.163518,0.205164,0.797012,-0.40669,True

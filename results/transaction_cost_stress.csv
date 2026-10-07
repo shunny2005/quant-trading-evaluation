@@ -1,0 +1,5 @@
+cost_per_unit_turnover,total_return,annualized_return,annualized_volatility,sharpe_ratio,max_drawdown,beats_spy,beats_spy_120
+0.001,30.051164,0.17811,0.196403,0.906862,-0.30006,True,True
+0.0025,22.672234,0.162958,0.196463,0.829458,-0.302567,True,True
+0.005,14.05932,0.138131,0.196575,0.702686,-0.306728,True,True
+0.01,5.092583,0.09004,0.196847,0.457408,-0.328832,False,False

@@ -1,0 +1,5 @@
+annual_financing_rate_on_gross_above_1x,total_return,annualized_return,annualized_volatility,sharpe_ratio,max_drawdown,beats_spy,beats_spy_120
+0.0,30.051164,0.17811,0.196403,0.906862,-0.30006,True,True
+0.02,19.391609,0.15471,0.196383,0.787797,-0.301128,True,True
+0.04,12.390735,0.131772,0.196367,0.67105,-0.302195,True,True
+0.06,7.792992,0.109287,0.196354,0.556582,-0.303261,True,False
